@@ -1,0 +1,292 @@
+rizki@indosystem.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+anda02@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni20@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+henri@member.id {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni07@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni25@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+eni32@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iyotesting02@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni19@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni22@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+indo@gmail.com {"errors":[{"message":"Your email or password is wrong, please try again","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Your email or password is wrong, please try again","statusCode":400},"status":400,"message":"Your email or password is wrong, please try again"}}}],"data":null}
+eni31@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+eni33@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+eni11@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+duto@member.id {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+eni21@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+agnes.kumala@gmail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+yanu@member.id {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty8@gmail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+kikifatma@mailinator.com.to {"errors":[{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","statusCode":400},"status":400,"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1"}}}],"data":null}
+kirannita@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+sekarayu@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+niaandin@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+riana@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+noniernia@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+ikajanah@mailinator.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki.asdf@gmail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+kispray.test@gmail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel5@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel6@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel9@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel13@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul5@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul6@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul8@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul9@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul13@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni7@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+kaniaanggit@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+faniaulia@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+sarahsisil@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mellakinan@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+siskasari@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+chachaani@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+evelynrina@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+sandrasafira@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+anggunlenia@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+sarianggi@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+ginanisa@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+nadiaayu@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+raditfebri@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+aditputra@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+wulandari@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+dimasyoga@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+sandyyuda@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+rimaaidah@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iimimroah@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+lianshyn@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+damardwi@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+feninindi@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mayaheni@mailinator.com {"errors":[{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","statusCode":400},"status":400,"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1"}}}],"data":null}
+auliananin@mailinator.com {"errors":[{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1","statusCode":400},"status":400,"message":"ER_TRUNCATED_WRONG_VALUE: Incorrect date value: 'Invalid date' for column 'dateOfBirth' at row 1"}}}],"data":null}
+radus@gamcil.com {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki.fuad@gmail.com.cii {"data":{"MemberMigrationLogin":{"success":true}}}
+andaeni@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andini@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mia@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andaeni@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+friskaevel@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+deo@member.id {"data":{"MemberMigrationLogin":{"success":true}}}
+jenia@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+lisa@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+rano@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+vindi@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+kirani@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+putri@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+dinda.annisa@midtrans.com {"data":{"MemberMigrationLogin":{"success":true}}}
+aneza_anezi@yahoo.com {"data":{"MemberMigrationLogin":{"success":true}}}
+nida@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+anindita@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+alvin.wirawan@ymail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+handoyoirawan@gmail.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+gavrilaevelyn4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+larasanisa@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+dianmila@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+fenialisa@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+cintaaliya@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+lidia@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+lili@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+melin@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo.andaeni@indosystem.com {"data":{"MemberMigrationLogin":{"success":true}}}
+lisdianasawang@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty92@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty93@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyombul14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyombul15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyombul75@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andaeiyo2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andaeiyo3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andaeiyo4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoevelyn2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoevelyn4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyombul10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyombul31@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty50@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae21@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae22@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae23@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae24@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni12@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni13@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+evelynmpong1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+evelynmpong2@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul20@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul21@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty31@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty32@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty33@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyokitty34@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+Hana@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki@indosystem.com.to {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki@member.com.id {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki@member.com.it {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki@member.co.id {"data":{"MemberMigrationLogin":{"success":true}}}
+rizki@member.co.idd {"data":{"MemberMigrationLogin":{"success":true}}}
+iyok11@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoke13@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoke15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoke17@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotestingk26@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo2@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyo3@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyo5@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo6@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo8@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo11@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes5@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes11@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes12@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes13@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+tes15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+cindyviolin26@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+andaempong@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+evelynmpong@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test51@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test45@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test46@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test11@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test15@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test17@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test19@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test20@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test30@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test33@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test34@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test37@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test38@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test39@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test41@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test42@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test43@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test52@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test55@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test64@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test47@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test48@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test49@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+test50@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+pekalipancirebon@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+1test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+2test@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+3test@gmail.com {"errors":[{"message":"Cannot read property 'id' of undefined","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Cannot read property 'id' of undefined","statusCode":400},"status":400,"message":"Cannot read property 'id' of undefined"}}}],"data":null}
+4test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo5test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo6test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo7test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo8test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo9test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo10test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo11test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo12test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo13test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo14test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo15test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo16test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo17test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo18test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo19test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo20test@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo21test@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo22test@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+mpongmbul@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotestpp2@gmail.com {"errors":[{"message":"Empty criteria(s) are not allowed for the delete method.","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Empty criteria(s) are not allowed for the delete method.","statusCode":400},"status":400,"message":"Empty criteria(s) are not allowed for the delete method."}}}],"data":null}
+iyotestpp3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotestpp4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eniandae@gmail.com {"errors":[{"message":"Empty criteria(s) are not allowed for the delete method.","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Empty criteria(s) are not allowed for the delete method.","statusCode":400},"status":400,"message":"Empty criteria(s) are not allowed for the delete method."}}}],"data":null}
+iyo30test@mailinator.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotestpp1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo01@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo02@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo03@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo04@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyo06@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo07@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo08@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo09@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo010@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo011@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo012@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo013@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo014@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo015@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo016@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo017@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo018@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo019@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo020@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iyo021@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo022@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyoandaeni020304050607080@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+ibrdrahim@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaenitesting010203040506070809010011012013014015@gmail.com {"errors":[{"message":"ER_DATA_TOO_LONG: Data too long for column 'fullname' at row 1","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"ER_DATA_TOO_LONG: Data too long for column 'fullname' at row 1","statusCode":400},"status":400,"message":"ER_DATA_TOO_LONG: Data too long for column 'fullname' at row 1"}}}],"data":null}
+iyoandaeni12345678910111213141516171819202122232425@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni1234567891011121@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaenitestingtesting123456789101112131415@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaenitestingtesting02123456789101112131415@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni01@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni02@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni03@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni04@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni05@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni06@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni08@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni09@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni10@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyoandaeni@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni13@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+eni14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni15@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+eni16@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni17@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting002@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyotesting81@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+eni34@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting10@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting14@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting800@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iyotesting590@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting59@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting06@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting08@gmail.com {"errors":[{"message":"Your email or password is wrong, please try again","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Your email or password is wrong, please try again","statusCode":400},"status":400,"message":"Your email or password is wrong, please try again"}}}],"data":null}
+iyotesting03@gmail.com {"errors":[{"message":"Your email or password is wrong, please try again","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Your email or password is wrong, please try again","statusCode":400},"status":400,"message":"Your email or password is wrong, please try again"}}}],"data":null}
+iyotesting04@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iamyour4gent_002@hotmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iamyour4gent_001@hotmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyoandaeni1@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyo@member.id {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyotesting01@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iyotesting003@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+rokitv.help@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+email.jendek@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+my.customer00001@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+my.customer00003@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+dutotrdj@gmail.com {"errors":[{"message":"Data not found","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"Data not found","statusCode":400},"status":400,"message":"Data not found"}}}],"data":null}
+iyotesting2@gmail.com {"errors":[{"message":"The account with this email has already been updated, please login using your phone number","locations":[{"line":2,"column":9}],"path":["MemberMigrationLogin"],"extensions":{"code":"INTERNAL_SERVER_ERROR","exception":{"response":{"message":"The account with this email has already been updated, please login using your phone number","statusCode":400},"status":400,"message":"The account with this email has already been updated, please login using your phone number"}}}],"data":null}
+iyotesting3@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting4@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+iyotesting5@gmail.com {"data":{"MemberMigrationLogin":{"success":true}}}
+done
