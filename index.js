@@ -1,12 +1,12 @@
 var axios = require('axios');
 const fs = require('fs');
 const url = 'https://stagingmanggis-api.member.design/graphql'
-const emailToMigrate = JSON.parse(fs.readFileSync('emails.json', 'utf8'))
+var emailToMigrate = JSON.parse(fs.readFileSync('emails.json', 'utf8'))
+emailToMigrate.reverse()
 const phoneCode = '62'
-const phoneNumber = '81901088918'
 const password = 'x123123x'
 
-function migrate(email, cb) {
+function migrate(email, phoneNumber, cb) {
     var data = JSON.stringify({
         query: `mutation {
         MemberMigrationLogin(
@@ -24,7 +24,7 @@ function migrate(email, cb) {
     sendRequest(data, cb)
 }
 
-function rollback(cb) {
+function rollback(phoneNumber, cb) {
     var data = JSON.stringify({
         query: `mutation {
         deletePhoneNumber(
@@ -59,10 +59,11 @@ function sendRequest(data, cb) {
 
 function walkThroughEmails(email, cb) {
     var index = emailToMigrate.indexOf(email)
-    migrate(email, migrateResp => {
-        console.log(email, migrateResp)
-        rollback(rollbackResp => {
-            console.log(email, rollbackResp)
+    var phoneNumber = Math.floor(Math.random() * (99999999999 - 00000000001 + 1) + 00000000001)
+    migrate(email, phoneNumber, migrateResp => {
+        console.log(email, phoneNumber, migrateResp)
+        rollback(phoneNumber, rollbackResp => {
+            console.log(email, phoneNumber, rollbackResp)
             index++
             if (emailToMigrate[index]) walkThroughEmails(emailToMigrate[index], cb)
             else cb()
