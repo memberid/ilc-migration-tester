@@ -53,7 +53,8 @@ function sendRequest(data, cb) {
             cb(JSON.stringify(response.data))
         })
         .catch(function (error) {
-            console.log(error);
+            console.log(error)
+            cb(JSON.stringify(response.data))
         });
 }
 
