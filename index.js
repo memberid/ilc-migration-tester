@@ -1,8 +1,6 @@
-var axios = require('axios');
-const fs = require('fs');
+const axios = require('axios')
+const LineByLineReader = require('line-by-line')
 const url = 'https://stagingmanggis-api.member.design/graphql'
-var emailToMigrate = JSON.parse(fs.readFileSync('emails.json', 'utf8'))
-emailToMigrate.reverse()
 const phoneCode = '62'
 const password = 'x123123x'
 
@@ -54,24 +52,19 @@ function sendRequest(data, cb) {
         })
         .catch(function (error) {
             console.log(error)
-            cb(JSON.stringify(response.data))
+            cb(error)
         });
 }
 
-function walkThroughEmails(email, cb) {
-    var index = emailToMigrate.indexOf(email)
+lr = new LineByLineReader('emails.json')
+lr.on('line', function (email) {
+    lr.pause()
     var phoneNumber = Math.floor(Math.random() * (99999999999 - 00000000001 + 1) + 00000000001)
     migrate(email, phoneNumber, migrateResp => {
         console.log(email, phoneNumber, migrateResp)
         rollback(phoneNumber, rollbackResp => {
             console.log(email, phoneNumber, rollbackResp)
-            index++
-            if (emailToMigrate[index]) walkThroughEmails(emailToMigrate[index], cb)
-            else cb()
+            lr.resume()
         })
     })
-}
-
-walkThroughEmails(emailToMigrate[0], () => {
-    console.log('done')
 })
